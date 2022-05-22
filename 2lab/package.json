@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  },
+  "scripts": {
+    "serve": "routing.js",
+    "start": "routing.js"
+  }
+}

@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "firstName": "Ivan",
+        "lastName": "Ivanov",
+        "group": "VIS21",
+        "createdAt": "2022-05-12T10:59:08.923Z",
+        "updatedAt": "2022-05-12T10:59:08.923Z"
+    },
+    {
+        "id": 2,
+        "firstName": "Homer",
+        "lastName": "Sivol",
+        "group": "VIS11",
+        "createdAt": "2022-05-12T10:59:08.923Z",
+        "updatedAt": "2022-05-12T10:59:08.923Z"
+    },
+    {
+        "id": 3,
+        "firstName": "Liza",
+        "lastName": "Ivanova",
+        "group": "VIS41",
+        "createdAt": "2022-05-12T10:59:08.923Z",
+        "updatedAt": "2022-05-12T10:59:08.923Z"
+    },
+    {
+        "id": 4,
+        "firstName": "Anya",
+        "lastName": "Sereneva",
+        "group": "VIS11",
+        "createdAt": "2022-05-12T10:59:08.923Z",
+        "updatedAt": "2022-05-12T10:59:08.923Z"
+    },
+    {
+        "id": 5,
+        "firstName": "Nikolay",
+        "lastName": "Tarantiev",
+        "group": "VIS12",
+        "createdAt": "2022-05-12T10:59:08.923Z",
+        "updatedAt": "2022-05-12T10:59:08.923Z"
+    },
+    {
+        "id": 6,
+        "firstName": "Charlse",
+        "lastName": "Barkley",
+        "group": "Phoenix Suns",
+        "createdAt": "2022-05-12T10:59:08.923Z",
+        "updatedAt": "2022-05-12T10:59:08.923Z"
+    },
+    {
+        "id": 7,
+        "firstName": "Allen",
+        "lastName": "Iverson",
+        "group": "Phila 76s",
+        "createdAt": "2022-05-12T11:36:53.583Z",
+        "updatedAt": "2022-05-12T11:36:53.583Z"
+    }
+]
